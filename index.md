@@ -1,7 +1,17 @@
 ## Welcome to GitHub Pages
 
 ## HOME
-
+Topics
+- overview of site
+- overview of my project
+- atlantis
+- jenkins in docker and ecr
+- terraform
+- bad magic number maybe??
+- gitlab runner
+- linux install
+- shinobi setup
+- vault in ecr?? ec2??
 
 ### Markdown
 
