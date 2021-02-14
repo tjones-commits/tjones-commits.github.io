@@ -4,7 +4,7 @@
 Topics
 - atlantis
 - step function
-- 
+- auth0 deploy cli
 
 ### Markdown
 
